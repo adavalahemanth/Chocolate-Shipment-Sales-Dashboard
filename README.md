@@ -3,8 +3,11 @@ As part of my data analytics learning journey, I built an interactive dashboard 
 ![chocolate](https://github.com/adavalahemanth/Chocolate-Shipment-Sales-Dashboard/blob/0e9c8b0ecaec021d891741524b0ef8f0714a4ac6/chocolate.png)
  What I Did:
 ✅ Analyzed key metrics like Total Sales ($141M), Total Boxes (9M), and Profit Percentage (57.3%)
+
 ✅ Identified top-performing products, salespeople, and underperforming SKUs
+
 ✅ Created slicers, KPIs, geo visuals, and custom DAX measures for deeper insights
+
 ✅ Designed clean, stakeholder-friendly visuals using Excel as the data source
 
 📊 Tools Used:
